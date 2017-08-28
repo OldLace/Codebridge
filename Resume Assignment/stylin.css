@@ -1,0 +1,24 @@
+.flexboxin {
+	display: -ms-flex;
+	display: -webkit-flex;
+	display: flex;
+}
+
+.flexboxin div {
+	width: 50%;
+	padding: 60px;
+}
+
+.flexboxin {
+	margin-right: 20px;
+}
+
+.jumbotron-billboard .img {
+    margin-bottom: 0px;
+    opacity: 0.2;
+    color: #fff;
+    background: #f5f5f5 url("./images/headerback.jpg") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
